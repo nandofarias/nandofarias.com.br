@@ -14,18 +14,6 @@ export interface WebsiteConfig {
   siteUrl: string;
   facebook?: string;
   twitter?: string;
-  /**
-   * hide or show all email subscribe boxes
-   */
-  showSubscribe: boolean;
-  /**
-   * create a list on mailchimp and then create an embeddable signup form. this is the form action
-   */
-  mailchimpAction?: string;
-  /**
-   * this is the hidden input field name
-   */
-  mailchimpName?: string;
 }
 
 const config: WebsiteConfig = {
@@ -38,7 +26,6 @@ const config: WebsiteConfig = {
   siteUrl: 'https://nandofarias.com.br',
   facebook: 'https://www.facebook.com/nandofarias12',
   twitter: 'https://twitter.com/nandofarias',
-  showSubscribe: false,
 };
 
 export default config;

@@ -94,23 +94,6 @@ const SocialLinks = styled.div`
   }
 `;
 
-const SubscribeButton = styled.a`
-  display: block;
-  padding: 4px 10px;
-  border: #fff 1px solid;
-  color: #fff;
-  font-size: 1.2rem;
-  line-height: 1em;
-  border-radius: 10px;
-  opacity: 0.8;
-
-  :hover {
-    text-decoration: none;
-    opacity: 1;
-    cursor: pointer;
-  }
-`;
-
 interface SiteNavProps {
   isHome?: boolean;
 }
