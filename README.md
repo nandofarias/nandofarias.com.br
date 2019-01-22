@@ -1,29 +1,24 @@
-# gatsby-casper
+# Fernando Farias - Blog
 
-Demo: https://gatsby-casper.netlify.com/
+Esse projeto foi criado baseado no tema gatsby-casper. No site tem uma demo desse tema: https://gatsby-casper.netlify.com/. É um simples port do [Casper](https://github.com/TryGhost/Casper) v2 o tema do [Ghost](https://ghost.org/), ele foi desenvolvido usando [GatsbyJS](https://www.gatsbyjs.org/) e [TypeScript](https://www.typescriptlang.org/).
 
-This is a static blog generator and starter gatsby repo. A port of [Casper](https://github.com/TryGhost/Casper) v2 a theme from [Ghost](https://ghost.org/) for [GatsbyJS](https://www.gatsbyjs.org/) using [TypeScript](https://www.typescriptlang.org/).
+## Funcionalidades
 
-## Getting Started
-
-Edit website-config.ts with your website settings.
-
-### Progress
+Eu removi a função de subscribe e deixei apenas com essas funcionalidades.
 
 - [x] emotion / component styles
 - [x] home page
 - [x] tag page
 - [x] author page
 - [x] blog page
-  - [ ] full width images in markdown? - not sure if possible
-  - [ ] multiple post authors
-  - [ ] floating reading progress bar
 - [x] 404 page
 - [x] rss feed
 - [x] polish ✨
   - [x] meta tags
   - [x] page titles
 
-### Deploy to Netlify
+## Copiar o blog
+
+Para fazer um blog com esse mesmo tema e com o deploy no netlify (super recomendo) é só utilizar o botão abaixo.
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/scttcper/gatsby-casper)
