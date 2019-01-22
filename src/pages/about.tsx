@@ -17,7 +17,6 @@ const PageTemplate = css`
   }
 `;
 
-
 const About: React.FunctionComponent = () => (
   <IndexLayout>
     <Helmet>
@@ -38,26 +37,28 @@ const About: React.FunctionComponent = () => (
           <PostFullContent className="post-full-content">
             <div className="post-content">
               <p>
-                Ghost is professional publishing platform designed for modern journalism. This is a
-                demo site of a basic Ghost install to give you a general sense of what a new Ghost
-                site looks like when set up for the first time.
+                Bom pessoal, um breve resumo da minha carreira, atualmente sou CTO de uma empresa
+                fantástica que é a Kanamobi, sério, estamos fazendo coisas incríveis por lá. Já fui
+                CTO e co-founder de uma startup muito divertida que foi a BemCombinado.com, um
+                marketplace de prestação de serviços bem diferente do modelo tradicional. Já
+                trabalhei em empresas gigantes no mercado como Porto Seguro, Banco Santander e
+                Conductor Tecnologia e já fui viciado em MMORPG um dia.
+              </p>
+              <p>
+                Já desenvolvi grandes projetos em Java, Node, Angular, React, React Native, Swift,
+                Kotlin e a lista vai longe, atualmente como CTO meu papel está mais em como fazer
+                gestão de times para que eles alcancem os seus objetivos, mas to seguindo firme e
+                forte com desenvolvimento nas horas vagas, estou amando desenvolver coisas malucas
+                como smart contracts e dapps.
               </p>
               <blockquote>
-                <p>
-                  If you'd like to set up a site like this for yourself, head over to{' '}
-                  <a href="https://ghost.org">Ghost.org</a> and start a free 14 day trial to give
-                  Ghost a try!
-                </p>
+                Frase inspiração do ano:
+                <p>"There is nothing like a dream to create the furure" - Victor Hugo</p>
               </blockquote>
               <p>
-                If you're a developer: Ghost is a completely open source (MIT) Node.js application
-                built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite,
-                and is publicly available <a href="https://github.com/TryGhost/ghost">on Github</a>.
-              </p>
-              <p>
-                If you need help with using Ghost, you'll find a ton of useful articles on{' '}
-                <a href="https://help.ghost.org">our knowledgebase</a>, as well as extensive{' '}
-                <a href="https://docs.ghost.org">developer documentation</a>.
+                Pra trocar uma ideia legal comigo, ou marcar pra tomar um café, é só me procurar no
+                Twitter, to sempre por lá <a href="https://twitter.com/nandofarias">@nandofarias</a>
+                . Um forte abraço pra vocês.
               </p>
             </div>
           </PostFullContent>
