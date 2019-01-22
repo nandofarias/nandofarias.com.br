@@ -53,7 +53,7 @@ const About: React.FunctionComponent = () => (
               </p>
               <blockquote>
                 Frase inspiração do ano:
-                <p>"There is nothing like a dream to create the furure" - Victor Hugo</p>
+                <p>"There is nothing like a dream to create the future" - Victor Hugo</p>
               </blockquote>
               <p>
                 Pra trocar uma ideia legal comigo, ou marcar pra tomar um café, é só me procurar no
