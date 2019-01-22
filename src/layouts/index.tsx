@@ -279,6 +279,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -moz-font-feature-settings: "liga" on;
+  font-feature-settings: on;
 }
 
 ::selection {
@@ -484,12 +485,14 @@ interface IndexProps {
 }
 
 const IndexLayout: React.FunctionComponent<IndexProps> = props => {
-  return <div className={props.className}>
-    <Helmet>
-      <link rel="icon" href={favicon} type="image/x-icon" />
-    </Helmet>
-    {props.children}
-  </div>;
+  return (
+    <div className={props.className}>
+      <Helmet>
+        <link rel="icon" href={favicon} type="image/x-icon" />
+      </Helmet>
+      {props.children}
+    </div>
+  );
 };
 
 export default IndexLayout;
