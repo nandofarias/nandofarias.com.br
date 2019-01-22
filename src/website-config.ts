@@ -29,17 +29,16 @@ export interface WebsiteConfig {
 }
 
 const config: WebsiteConfig = {
-  title: 'Ghost',
-  description: 'The professional publishing platform',
+  title: 'Fernando Farias',
+  description:
+    'CTO at @Kanamobi 🎩. Javascript Developer 👨‍💻. Blockchain Enthusiast ⛓. @brunarthays Husband 😍',
   coverImage: 'img/blog-cover.jpg',
-  logo: 'img/ghost-logo.png',
-  lang: 'en',
-  siteUrl: 'https://gatsby-casper.netlify.com',
-  facebook: 'https://www.facebook.com/ghost',
-  twitter: 'https://twitter.com/tryghost',
-  showSubscribe: true,
-  mailchimpAction: 'https://twitter.us19.list-manage.com/subscribe/post?u=a89b6987ac248c81b0b7f3a0f&amp;id=7d777b7d75',
-  mailchimpName: 'b_a89b6987ac248c81b0b7f3a0f_7d777b7d75',
+  logo: 'img/logo.png',
+  lang: 'pt-br',
+  siteUrl: 'https://nandofarias.com.br',
+  facebook: 'https://www.facebook.com/nandofarias12',
+  twitter: 'https://twitter.com/nandofarias',
+  showSubscribe: false,
 };
 
 export default config;
