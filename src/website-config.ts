@@ -18,8 +18,7 @@ export interface WebsiteConfig {
 
 const config: WebsiteConfig = {
   title: 'Fernando Farias',
-  description:
-    'CTO at @Kanamobi 🎩. Javascript Developer 👨‍💻. Blockchain Enthusiast ⛓. @brunarthays Husband 😍',
+  description: 'Business Architect at SWAP',
   coverImage: 'img/blog-cover.jpg',
   logo: 'img/logo.png',
   lang: 'pt-br',

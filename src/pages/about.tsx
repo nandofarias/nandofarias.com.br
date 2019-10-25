@@ -37,19 +37,18 @@ const About: React.FunctionComponent = () => (
           <PostFullContent className="post-full-content">
             <div className="post-content">
               <p>
-                Bom pessoal, um breve resumo da minha carreira, atualmente sou CTO de uma empresa
-                fantástica que é a Kanamobi, sério, estamos fazendo coisas incríveis por lá. Já fui
-                CTO e co-founder de uma startup muito divertida que foi a BemCombinado.com, um
+                Bom pessoal, um breve resumo da minha carreira, atualmente Business Architect de uma
+                empresa fantástica que é a SWAP, sério, estamos fazendo coisas incríveis por lá. Já
+                fui CTO e co-founder de uma startup muito divertida que foi a BemCombinado.com, um
                 marketplace de prestação de serviços bem diferente do modelo tradicional. Já
                 trabalhei em empresas gigantes no mercado como Porto Seguro, Banco Santander e
-                Conductor Tecnologia e já fui viciado em MMORPG um dia.
+                Conductor Tecnologia e já trabalhei com pessoas incríveis na GO.K atuando como CTO.
               </p>
               <p>
                 Já desenvolvi grandes projetos em Java, Node, Angular, React, React Native, Swift,
-                Kotlin e a lista vai longe, atualmente como CTO meu papel está mais em como fazer
-                gestão de times para que eles alcancem os seus objetivos, mas to seguindo firme e
-                forte com desenvolvimento nas horas vagas, estou amando desenvolver coisas malucas
-                como smart contracts e dapps.
+                Kotlin e a lista vai longe, atualmente estou quebrando a cabeça com o mercado de
+                meios de pagamento com o foco em tornar a vida dos nossos clientes super fácil, é
+                muito bom poder colocar crazy ideas em produção.
               </p>
               <blockquote>
                 Frase inspiração do ano:
