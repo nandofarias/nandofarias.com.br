@@ -2,7 +2,7 @@ const path = require('path');
 
 module.exports = {
   siteMetadata: {
-    title: 'Fernando Farias',
+    title: 'Teste 123 ',
     description: 'Personal Blog',
     siteUrl: 'https://nandofarias.com.br', // full path to blog - no ending slash
   },
