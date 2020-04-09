@@ -37,7 +37,7 @@ const About: React.FunctionComponent = () => (
           <PostFullContent className="post-full-content">
             <div className="post-content">
               <p>
-                Bom pessoal, um breve resumo da minha carreira, atualmente Business Architect de uma
+                Bom pessoal, um breve resumo da minha carreira, atualmente Software Engineer de uma
                 empresa fantástica que é a SWAP, sério, estamos fazendo coisas incríveis por lá. Já
                 fui CTO e co-founder de uma startup muito divertida que foi a BemCombinado.com, um
                 marketplace de prestação de serviços bem diferente do modelo tradicional. Já

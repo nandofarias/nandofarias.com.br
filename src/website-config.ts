@@ -18,7 +18,7 @@ export interface WebsiteConfig {
 
 const config: WebsiteConfig = {
   title: 'Fernando Farias',
-  description: 'Business Architect at SWAP',
+  description: 'Software Engineer at SWAP',
   coverImage: 'img/blog-cover.jpg',
   logo: 'img/logo.png',
   lang: 'pt-br',
